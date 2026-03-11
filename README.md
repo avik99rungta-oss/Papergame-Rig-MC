@@ -1,4 +1,5 @@
 Gamble Rig Mod
+<img width="1316" height="730" alt="image" src="https://github.com/user-attachments/assets/40553570-b6fc-45a8-a763-fd8529ae8aa1" />
 
 This is a project i made especcialy for DonutSMP gamblers!
 
@@ -26,3 +27,6 @@ Premeium
 
 I also made one that has BlackJack, and 50/50 for more games and are fully functionable!
 dm me on Discord: jtc8
+
+
+
