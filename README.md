@@ -15,11 +15,9 @@ The rig uses two dispensers and a set of selectable items.
 
 Open the menu with P.
 
-Hold the item you want to assign in your hand.
+Hold the item you want to assign in your hand. Click P and Click Assign Hand
 
-Select a slot in the menu to bind the item.
-
-Repeat for the second item.
+Repeat for the second item with the other item!.
 
 Make sure you number all the items 1-9 only numbers nothing else on it!
 
