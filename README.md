@@ -23,8 +23,9 @@ Make sure you number all the items 1-9 only numbers nothing else on it!
 
 Premeium
 
-I also made one that has BlackJack, and 50/50 for more games and are fully functionable!
+I also made one that has BlackJack, and 50/50 for more games and are fully functionable! Ps you need to pay 200m on DonutSMP
 dm me on Discord: jtc8
 
-
+NOTE:
+IT IS NOT MY FAULT IF YOU GET BANNED (you probably wont) BY DOWNLOADING YOU ARE AGREEING TO THIS!!!!111!!!111!
 
